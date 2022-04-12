@@ -1,0 +1,12 @@
+{
+  "name": "@susteks/cypress-scraper",
+  "version": "0.0.1",
+  "scripts": {
+    "cypress": "npx cypress open",
+    "cy:run": "cypress run"
+  },
+  "private": true,
+  "dependencies": {
+    "cypress": "^6.1.0"
+  }
+}
